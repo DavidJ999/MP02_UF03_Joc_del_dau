@@ -10,14 +10,10 @@ as begin
 	if @punts between 0 and 2
 		begin
 			set @sino=0
-			Print @punts;
-			Print ‘no el vull’;
 		end;
 	else 
 		begin
 			set @sino=1
-			Print @punts;
-			Print ‘el vull’;
 		end;
 	return @sino
 end;
