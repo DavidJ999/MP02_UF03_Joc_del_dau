@@ -1,4 +1,4 @@
-# Prova
+# Agafo o no
 
 Aquesta funció és queda tots aquells numeros que siguin més grans que 2.
 
